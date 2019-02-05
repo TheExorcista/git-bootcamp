@@ -1,3 +1,4 @@
 This is a silly example
 How sunny is today?
 Well not so cold as USA
+This is the latest text added

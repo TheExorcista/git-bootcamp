@@ -1,0 +1,6 @@
+Kubernetes networking
+Kubernetes:
+			Object used to connect pod with the external world.
+			Three types:
+						NodePort
+						LoadBalancer
